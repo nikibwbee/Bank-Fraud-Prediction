@@ -2,7 +2,7 @@
 
 A machine learning project to detect fraudulent bank transactions using data analysis and classification models.
 
----
+
 
 ## 📊 Project Overview
 
@@ -15,7 +15,7 @@ It includes:
 - Model training and evaluation  
 - Prediction of fraud transactions  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ It includes:
 - Scikit-learn  
 - Jupyter Notebook  
 
----
+
 
 ## 📁 Files in This Repository
 
@@ -37,16 +37,8 @@ It includes:
   - Model building  
   - Evaluation  
 
----
 
 ## 🎯 Objective
 
 To build a model that can predict whether a bank transaction is fraudulent based on transaction behavior and features.
 
----
-
-## 🚀 How to Run This Project
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/nikibwbee/Bank-Fraud-Prediction.git
